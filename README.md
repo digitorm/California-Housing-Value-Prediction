@@ -2,7 +2,7 @@
 
 ## Introduction
 
-## The problem addressed in this project is use characteristics such as the number of rooms, population, and location in California for predicting the median value. This is a relevant problem for the real
+<p> The problem addressed in this project is use characteristics such as the number of rooms, population, and location in California for predicting the median value. This is a relevant problem for the real</p>
 
 ## estate industry and can aid in making informed decisions. The motivation for the use of AI is to accurately predict the house values and provide insights to the real estate industry. The originality of
 
